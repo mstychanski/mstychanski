@@ -2,7 +2,7 @@
 ![beginner web/mobile developer](https://github.com/mstychanski/mstychanski/blob/main/header.png?raw=true)
 
 ## Mateusz Stychański
-I am Mateusz Stychański, beginner web/mobile developer. I realy like to learn new stuff and technologies. I also like to develop mobile apps. I currently learning more Java to be better backend developer :D.
+I am Mateusz Stychański, beginner web/mobile developer. I realy like to learn new stuff and technologies. I also like to develop mobile apps. I currently learning more Java to be better backend developer.
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Spring and Kotlin 
