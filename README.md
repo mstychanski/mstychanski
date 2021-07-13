@@ -17,8 +17,12 @@ I am Mateusz Stychański, beginner web/mobile developer. I realy like to learn n
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mstychanski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mateusz-stychanski/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/twitter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](notfound)  
 
-<!--
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstychanski)](https://github.com/anuraghazra/github-readme-stats)
-
- [![Mateusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstychanski)](https://github.com/anuraghazra/github-readme-stats)
+##
+<details>
+  <summary>:zap: Most Used Languages</summary>
+<img align="left" alt="Mateusz's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstychanski" />
+</details>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Mateusz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstychanski" />
+</details>
