@@ -4,8 +4,8 @@
 ## Mateusz Stychański
 I am Mateusz Stychański, beginner web/mobile developer. I realy like to learn new stuff and technologies. I also like to develop mobile apps. I currently learning more Java to be better backend developer.
 
-- 🔭 I’m currently working in .net / Angular
-- 🌱 I’m currently learning more frameworks
+- 🔭 I’m currently working in .Net / Angular
+- 🌱 I’m currently learning more CQRS and more Angular stuff
 - ⚡ Fun fact: I am bass player in rock band  
 
 ## Skills 
